@@ -99,6 +99,7 @@ Points:
 - E - Done: 25
 - with editorial: 80%
 
+```
 Grading Scale
 Percentage	Letter Grade
 98% or above	 A+
@@ -114,3 +115,4 @@ Percentage	Letter Grade
 63.00-65.99	D
 60.00-62.99	D−
 Below 60	F
+```
