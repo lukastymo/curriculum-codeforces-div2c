@@ -2,6 +2,8 @@
 
 The goal is to start doing div 2c codeforces
 
+https://docs.google.com/spreadsheets/d/1oLsXugXfbxToYfqXw-WDt7C_H5doR-HlD8lGFlibk0E/edit?folder=1cD__N-R7gWnM6lvCz5xiTbjB548D_Vdy#gid=0
+
 - Module 1
 	- Cormen: Foundation up to 130
 	- https://codeforces.com/contest/1265/problem/A
@@ -93,11 +95,12 @@ Points:
 - Touched: 1
 - Theory - Done: 2
 - Exercises at least 5 done: [0-1] - Must be done to pass
+- A - Done: 2
 - B - Done: 5
-- C - Done: 15
-- D - Done: 20
-- E - Done: 25
-- with editorial: 80%
+- C - Done: 30
+- D - Done: 45
+- E - Done: 60
+- Done with editorial: x*40%
 
 ```
 Grading Scale
